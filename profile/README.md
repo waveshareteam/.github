@@ -10,6 +10,6 @@ Waveshare was founded in 2006, among the first to embrace open source hardware. 
 * Wiki   ：[www.waveshare.com/wiki](https://www.waveshare.com/wiki)
 
 ## About Issues
-* In order to respond to your technical issues faster, it is recommended to submit issues through the ticket system：[https://support.waveshare.com/hc/en-us/](https://service.waveshare.com/)
+* In order to respond to your technical issues faster, it is recommended to submit issues through the ticket system：https://service.waveshare.com/
 * On Github, we only review issues from time to time
 
