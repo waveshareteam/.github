@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Product usage, hardware or order support / 产品使用、硬件或订单支持
+    url: https://service.waveshare.com/
+    about: Waveshare official support. GitHub issues are for example code and repository problems only. / Waveshare 官方支持；GitHub issue 仅用于示例代码和仓库问题。
