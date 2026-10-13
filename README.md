@@ -10,7 +10,7 @@ This repository holds the organization profile and the default community health 
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |
 | [SECURITY.md](SECURITY.md) | How to report security issues |
 | [SUPPORT.md](SUPPORT.md) | Where to get support |
-| [ISSUE_TEMPLATE](ISSUE_TEMPLATE) | Issue templates and the template chooser configuration |
+| [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Issue templates and the template chooser configuration |
 | [pull_request_template.md](pull_request_template.md) | Pull request template |
 
 ---
@@ -25,5 +25,5 @@ This repository holds the organization profile and the default community health 
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 贡献指南 |
 | [SECURITY.md](SECURITY.md) | 安全问题的报告方式 |
 | [SUPPORT.md](SUPPORT.md) | 获取支持的渠道 |
-| [ISSUE_TEMPLATE](ISSUE_TEMPLATE) | issue 模板和模板选择页配置 |
+| [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | issue 模板和模板选择页配置 |
 | [pull_request_template.md](pull_request_template.md) | 拉取请求模板 |
