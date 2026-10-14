@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with a board example or repository workflow
+about: Report a problem with a board example
 title: "[Bug] "
 labels: bug
 assignees: ""

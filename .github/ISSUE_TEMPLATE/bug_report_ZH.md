@@ -1,6 +1,6 @@
 ---
 name: 缺陷报告（简体中文）
-about: 报告开发板示例或仓库工作流中的问题
+about: 报告开发板示例中的问题
 title: "[Bug] "
 labels: bug
 assignees: ""
